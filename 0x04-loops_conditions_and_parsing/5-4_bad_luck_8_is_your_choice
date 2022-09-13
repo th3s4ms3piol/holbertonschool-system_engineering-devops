@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# "luck stuff" 10 times
+# "lucky 8" 10 times
 i=0
 while [ $((++i)) -le 10 ]; do
 	if [ $i == 4 ]; then
