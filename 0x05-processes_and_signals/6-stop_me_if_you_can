@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# kill again
+pkill -f beyond
