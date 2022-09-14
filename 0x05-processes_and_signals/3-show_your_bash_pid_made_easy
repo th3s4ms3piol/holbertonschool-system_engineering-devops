@@ -1,2 +1,3 @@
-# comment
+#!/usr/bin/env bash
+# connect 4
 pgrep -l bash
